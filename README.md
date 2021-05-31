@@ -11,6 +11,10 @@ Para poder tener este proyecto funcionando, se necesita tener instalado XAMPP.
 
 Para poder clonar de manera efectiva este proyecto, tendran que clonar este archivo en la dirección xampp\htdocs.
 
+### Imagen
+![ilustracion](https://user-images.githubusercontent.com/56778508/120190495-1181dd00-c1ef-11eb-982c-536470ecf9c4.png)
+
+
 ### Construido con 🛠️
 
 Este proyecto esta construido enteramente con PHP en la parte de backend por otra parte HTML y CSS en el front.
