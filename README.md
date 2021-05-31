@@ -19,8 +19,11 @@ Este proyecto esta construido enteramente con PHP en la parte de backend por otr
 
 Los posibles siguientes pasos seria.
  -Tener una sección para seleccionar el template a usar (en la actualidad esta hardcodeado el template).
+ 
  -Poder tener elegir el formatod el output final, ya sea docx o pdf (en la actualidad solo permite docx).
+ 
  -Tener una sección donde poder visualizar en una lista la cantidad de archivos creados y poder borrar sin necesidad de acudir a la carpeta.
+ 
  -Poder enviar estos archivos de manera automatica a los emails de cada una de las personas a las cuales le fueron creadas los certificados.
  
 
