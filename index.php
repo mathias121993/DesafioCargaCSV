@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h1 class="general-title">DESAFÍO FUNDACIÓN HUESPEDv2</h1>
+    <h1 class="general-title">DESAFÍO FUNDACIÓN HUESPED</h1>
     <div class="form-container">
         <?php
             if( isset($_GET['status']) ) { ?>
